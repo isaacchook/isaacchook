@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Isaac
-- 👀 I’m interested in Machine Learning/Deep Learning/Intelligent Systems
+- 👋 Hi, I’m Isaac. I'm aspiring to be a Data Scientist
 
 <!---
 isaacchook/isaacchook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
