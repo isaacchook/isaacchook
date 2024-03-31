@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isaac. I'm aspiring to be a Data Scientist
+- 👋 Hi, I’m Isaac. I aspire to be a Data Scientist
 
 <!---
 isaacchook/isaacchook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
